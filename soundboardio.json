@@ -1,1 +1,53 @@
-{'name': 'TEATRO', 'shortName': 'TEATRO', 'description': 'Obra para el 31 de octubre 2024', 'author': {'name': 'Daniela', 'url': 'https://github.com/Daniela1232a'}, 'color': '#0077c2', 'version': '1.1.1', 'lang': 'es', 'rootUrl': 'sounds/', 'icons': [{'src': '/icons/og-image.jpg', 'sizes': '1024x1024', 'type': 'image/jpg'}, {'src': '/icons/icon.svg', 'sizes': '48x48', 'purpose': 'maskable any', 'type': 'image/svg'}, {'src': '/icons/icon.png', 'sizes': '144x144', 'type': 'image/png'}], 'tiles': [{'name': 'INTRO-MINIONS', 'filename': 'INTRO%20MINIONS.mp3'}, {'name': 'INICIO-HISTORIA', 'filename': 'Canci%C3%B3n%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net).mp3'}, {'name': 'EFECTO-ERROR-HISTORIA', 'filename': 'Sonido%20de%20disco%20rayado%20-%20Girona%20Studios%20(youtube).mp3'}, {'name': 'AMBULANCIA-MINIONS', 'filename': 'Minions%20Bomberos%20BidoBidoBido%20HD%20-%20Ar2k10%20(youtube)%20(mp3cut.net).mp3'}, {'name': 'MINIONS-RISA-BURLONA', 'filename': 'Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net).mp3'}]}
+{
+  "name": "TEATRO",
+  "shortName": "TEATRO",
+  "description": "Obra para el 31 de octubre 2024",
+  "author": {
+    "name": "Daniela",
+    "url": "https://github.com/Daniela1232a"
+  },
+  "color": "#0077c2",
+  "version": "1.1.1",
+  "lang": "es",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "48x48",
+      "purpose": "maskable any",
+      "type": "image/svg"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "INTRO-MINIONS",
+      "filename": "INTRO%20MINIONS.mp3"
+    },
+    {
+      "name": "INICIO-HISTORIA",
+      "filename": "Canci%C3%B3n%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "EFECTO-ERROR-HISTORIA",
+      "filename": "Sonido%20de%20disco%20rayado%20-%20Girona%20Studios%20(youtube).mp3"
+    },
+    {
+      "name": "AMBULANCIA-MINIONS",
+      "filename": "Minions%20Bomberos%20BidoBidoBido%20HD%20-%20Ar2k10%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MINIONS-RISA-BURLONA",
+      "filename": "Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net).mp3"
+    }
+  ]
+}
