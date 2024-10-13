@@ -16,6 +16,28 @@
   "version": "1.1.1",
   "lang": "cs",
   "rootUrl": "sounds/",
+    "color": "#0077c2",
+  "version": "1.1.1",
+  "lang": "cs",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "48x48",
+      "purpose": "maskable any",
+      "type": "image/svg"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
   "tiles": [
     {
       "name": "INTRO-MINIONS",
