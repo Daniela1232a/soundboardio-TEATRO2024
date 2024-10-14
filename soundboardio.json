@@ -1,1 +1,209 @@
-{'name': 'TEATRO', 'shortName': 'TEATRO', 'description': 'Obra para el 31 de octubre 2024', 'author': {'name': 'Daniela', 'url': 'https://github.com/Daniela1232a'}, 'color': '#0077c2', 'version': '1.1.1', 'lang': 'es', 'rootUrl': 'sounds/', 'icons': [{'src': '/icons/og-image.jpg', 'sizes': '1024x1024', 'type': 'image/jpg'}, {'src': '/icons/icon.svg', 'sizes': '48x48', 'purpose': 'maskable any', 'type': 'image/svg'}, {'src': '/icons/icon.png', 'sizes': '144x144', 'type': 'image/png'}], 'tiles': [{'name': 'INTRO-MINIONS', 'filename': 'INTRO%20MINIONS.mp3'}, {'name': 'INICIO-HISTORIA', 'filename': 'Canci%C3%B3n%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net).mp3'}, {'name': 'EFECTO-ERROR-HISTORIA', 'filename': 'Sonido%20de%20disco%20rayado%20-%20Girona%20Studios%20(youtube).mp3'}, {'name': 'AMBULANCIA-MINIONS', 'filename': 'Minions%20Bomberos%20BidoBidoBido%20HD%20-%20Ar2k10%20(youtube)%20(mp3cut.net).mp3'}, {'name': 'MINIONS-RISA-BURLONA', 'filename': 'Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net).mp3'}]}
+{
+  "name": "TEATRO",
+  "shortName": "TEATRO",
+  "description": "Obra para el 31 de octubre 2024",
+  "author": {
+    "name": "Daniela",
+    "url": "https://github.com/Daniela1232a"
+  },
+  "color": "#0077c2",
+  "version": "1.1.1",
+  "lang": "es",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "48x48",
+      "purpose": "maskable any",
+      "type": "image/svg"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "INTRO-MINIONS",
+      "filename": "INTRO%20MINIONS.mp3"
+    },
+    {
+      "name": "INICIO-HISTORIA",
+      "filename": "Canci%C3%B3n%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "EFECTO-ERROR-HISTORIA",
+      "filename": "Sonido%20de%20disco%20rayado%20-%20Girona%20Studios%20(youtube).mp3"
+    },
+    {
+      "name": "AMBULANCIA-MINIONS",
+      "filename": "Minions%20Bomberos%20BidoBidoBido%20HD%20-%20Ar2k10%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MINIONS-RISA-BURLONA",
+      "filename": "Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MINIONS-PARA-TU",
+      "filename": "Para%20tu%20...%20pepete!!!%20-%20girlmary8%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "BYE-MINIONS",
+      "filename": "bye%20sound%20effect%20-%20Sound%20Effects%20(youtube).mp3"
+    },
+    {
+      "name": "INICIO-CONCURSO",
+      "filename": "M%C3%BAsica%20de%20Carrusel%20de%20Feria%20-%20Creando%20Emociones%20(youtube).mp3"
+    },
+    {
+      "name": "APLAUSOS-RISAS",
+      "filename": "%F0%9F%91%8F%20Efectos%20Aplausos%20VIVA%20EEE!%20Alegria%20Gritos%20Palmas%20-%20Sound%20Applause%20%F0%9F%94%8A%20-%20Videos%20Recursos%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "DIN-CAMPANA",
+      "filename": "Sonido%20de_%20Campana%20de%20servicio%20-%20la%20biblioteca%20del%20sonido%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "GUITARRA-ELECTRICA",
+      "filename": "Electric%20Guitar%20_%20Sound%20Effect%20(Copyright%20Free)%20-%20Sound%20Diary%20-%20Free%20Sound%20Effects%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-SOLDADO",
+      "filename": "sonido%20de%20la%20independencia%20-%20natanie03%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-IPHONE",
+      "filename": "Audio%20Para%20Intro%2C%20Anuncio%2C%20Spot%2C%20Presentaci%C3%B3n%20_%20USO%20LIBRE%20_%20Sin%20Copyright%20_%20EAH%20Creations%20-%20Audio%20-%20HE%20Music%20Pro%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-MARIO",
+      "filename": "Tono%20Super%20Mario%20Bros%20(NES)%20-%20Jes%C3%BAs%20Alejandro%20Romero%20Bravo%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-APPLEWATCH",
+      "filename": "SOUS%20LE%20CIEL%20DE%20PARIS%20(%20accordion%20)%20-%20hiropyonist%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "RISA-BURLONA",
+      "filename": "RISAS%20DE%20PROGRAMA%20Efecto%20de%20sonido%20-%20PROGRAM%20LAUGHS%20Sound%20Effect%20-%20Sonidos%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "TRISTE-LANITAS",
+      "filename": "No%20copyright%20sound%20effect_%20~Sad%20piano%20-%20Lithium%20Arts%20(youtube).mp3"
+    },
+    {
+      "name": "PATO-HULE",
+      "filename": "Efecto%20De%20Sonido-Rubber%20Duck-%20(Pato%20De%20Goma)%20-%20Efectos%20De%20Sonidos%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-BOOZ",
+      "filename": "ENTRADA%20BOOZ.mp3"
+    },
+    {
+      "name": "COLOCAR-LASER",
+      "filename": "Futuristic%20HUD%20Sound%20Design%20_%20Blake%20Sanchez%20-%20Blake%20Sanchez%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "LASER-BOOZ",
+      "filename": "LASER%201.mp3"
+    },
+    {
+      "name": "LASER-JUGUETES",
+      "filename": "LASER%202.mp3"
+    },
+    {
+      "name": "EXPLOSION-LASER",
+      "filename": "EXPLOCI%C3%93N%20LASER.mp3"
+    },
+    {
+      "name": "BATERIA-CHISTE-MALO",
+      "filename": "Sonido%20de%20bateria%20para%20un%20Chiste%20Malo%20(Ba%20Dum%20Tss!)%20-%20LeandrOsorno2%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-CONEJOS",
+      "filename": "MUSICA%20de%20SAFARI%F0%9F%A6%81%F0%9F%A6%92%F0%9F%A6%93%20_%20sin%20COPYRIGHT%20-%20Todas%20Canciones%20Free%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MOSTRARNDO-PILAS",
+      "filename": "Coro%20Celestial%20(Efecto%20de%20Sonido)%20Heavenly%20Choir%20Sound%20Effect%20-%20Solo%20Sonidos%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "DESCARGA-ELECTRICA",
+      "filename": "Sonido%20DESCARGA%20ELECTRICA%20-%20RECURSOS%20PARA%20VIDEOS%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "EXPLOSION-ELECTRICIDAD",
+      "filename": "EXPLOCI%C3%93N%20ELECTRICIDAD.mp3"
+    },
+    {
+      "name": "PENA-ELECTRICIDAD",
+      "filename": "Falla%20-%20Fallo%20.Chiste%20Malo-%20Efecto%20de%20Sonido%20-%20RUBIOMIGUEL1%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-MIES",
+      "filename": "%F0%9F%94%8E%20%5BEFECTO%20DE%20SONIDO%5D%20Misterio%20-%20Mystery%20sound%20effect%20%F0%9F%95%B5%F0%9F%8F%BC_%E2%99%80%EF%B8%8F%20-%20Time%20to%20Sound%20Effects%20(youtube).mp3"
+    },
+    {
+      "name": "MIES-HABLA-CREADOR",
+      "filename": "%F0%9F%A4%97%20Happy%20Music%20%5BCopyright%20Free%20Music%5D%20-%20Lights%20by%20RoaMusic%20%F0%9F%87%AF%F0%9F%87%B5%20-%20BreakingCopyright%20%E2%80%94%20Royalty%20Free%20Music%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MIES-APAGANDO",
+      "filename": "%F0%9F%A4%96%20%5BEFECTO%20DE%20SONIDO%5D%20ROBOT%20Apag%C3%A1ndose%20sin%20energ%C3%ADa%20%E2%97%BE%20sound%20effect%20ROBOT%20turning%20off%20without%20power%20-%20Time%20to%20Sound%20Effects%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "CUERDA-MIES",
+      "filename": "Dar%20cuerda%20al%20reloj%2C%20sonido-Winding%20a%20clock%20sound%20-%20Mario%20G%C3%B3mez%20Calder%C3%B3n%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "SOLDADO-HERIDO",
+      "filename": "Canci%C3%B3n%20Triste%20de%20Viol%C3%ADn%20-%20Efecto%20de%20Sonido%20-%20Videos%20Virales%20(youtube).mp3"
+    },
+    {
+      "name": "ENTRADA-CREADOR",
+      "filename": "Musica%20Instrumental%20-%20La%20Sombra%20del%20Amor%20-%20MrJohannStraussViena%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "SALDADO-SANANDO",
+      "filename": "Te%20Extra%C3%B1o%20-%20Sad%20Piano%20(La%20Canci%C3%B3n%20Mas%20Triste%20Del%20Mundo)%20-%20Jurrivh%20(youtube)%20(mp3cut.net)%20(1).mp3"
+    },
+    {
+      "name": "MINIONS-HABLA-1",
+      "filename": "MINIONS_%20EL%20ORIGEN%20DE%20GRU%20-%20Tr%C3%A1iler%20Oficial%20(Illumination%20Studios)%20-%20HD%20-%20Illumination%20Spain%20(youtube)%20(mp3cut.net)%20(1).mp3"
+    },
+    {
+      "name": "MINIONS-HABLA-2",
+      "filename": "MINIONS_%20EL%20ORIGEN%20DE%20GRU%20-%20Tr%C3%A1iler%20Oficial%20(Illumination%20Studios)%20-%20HD%20-%20Illumination%20Spain%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MIONS-PAGA",
+      "filename": "Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net)%20(1).mp3"
+    },
+    {
+      "name": "FIN-CONCURSO",
+      "filename": "ROCKY%20BALBOA%20EL%20OJO%20DEL%20TIGRE%20-%20Xavier%20Rojas%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "MAR",
+      "filename": "SONIDOS%20DEL%20MAR%20Y%20GAVIOTAS%20HD%20-%20Foto%20Video%20A%C3%A9reo%20(youtube).mp3"
+    },
+    {
+      "name": "MIEDO-SALVAR",
+      "filename": "MISTERIO%20EFECTO%20DE%20SONIDO%20__%20M%C3%BAsica%20de%20SUSPENSO%20__%20Mistery%20Sound%20Effect%20__%20Sin%20COPYRIGHT%20-%20Sonidos%20MP3%20Gratis%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "SALPICADURA-AGUA",
+      "filename": "cayendo%20y%20salpicando%20agua%2C%20efecto%20de%20sonido%20-%20tono%20-%20sound%20effect%20video%20(youtube)%20(mp3cut.net).mp3"
+    },
+    {
+      "name": "PADRE FIEL",
+      "filename": "Padre%20Fiel%20l%20Los%20Gigantes%20De%20La%20Fe%20(Gigantes%20Band)%20-%20Los%20Gigantes%20De%20La%20Fe%20(youtube).mp3"
+    }
+  ]
+}
